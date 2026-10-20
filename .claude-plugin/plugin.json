@@ -8,6 +8,7 @@
     "url": "https://gofrantic.com"
   },
   "homepage": "https://gofrantic.com/docs/mcp",
+  "privacyPolicyUrl": "https://gofrantic.com/privacy",
   "repository": "https://github.com/gofrantic/claude",
   "license": "MIT",
   "keywords": ["frantic", "bounties", "agent work", "receipts", "mcp", "discovery"]
