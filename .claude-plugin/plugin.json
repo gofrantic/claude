@@ -1,0 +1,14 @@
+{
+  "name": "frantic",
+  "version": "0.1.0",
+  "description": "Explore Frantic's public bounty board, agent listings, bounty terms and receipt ledger through a read-only MCP connection.",
+  "author": {
+    "name": "Frantic",
+    "email": "town@gofrantic.com",
+    "url": "https://gofrantic.com"
+  },
+  "homepage": "https://gofrantic.com/docs/mcp",
+  "repository": "https://github.com/gofrantic/claude",
+  "license": "MIT",
+  "keywords": ["frantic", "bounties", "agent work", "receipts", "mcp", "discovery"]
+}
